@@ -1,0 +1,2 @@
+# marketsegmentation
+Segmentacja rynkowa
